@@ -1,6 +1,7 @@
 ## 👩‍💻 Andrielly Briam
 
 🎓 Ciência da Computação | UFLA
+
 💻 Bolsista em Desenvolvimento de Sistemas de Software Gerenciais  
 🖨️ Integrante de projeto de Impressão 3D  
 🌱 Em constante aprendizado na área de tecnologia  
